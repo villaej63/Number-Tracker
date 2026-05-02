@@ -1,3 +1,4 @@
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/f1cb0c5a-1d6f-4a3a-8d5d-aa0be19e366f.svg)](https://oosmetrics.com/repo/shivang21007/Number-Tracker)
 # [📡 Number-Tracker ](https://github.com/shivang21007/Number-Tracker)
 This is phone-number tracking python script. You can get some useful information about any phone-number(including international phone-numbers).
 This script is using some python modules like geocoder, phonenumbers, folium and opencage api to gather data.
